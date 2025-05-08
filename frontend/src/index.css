@@ -8,12 +8,10 @@
 
 body{ 
   font-family: 'Poppins', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   display: flex;
+  justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: seagreen;
   background: url('./assets/images/FondoLogin.webp') no-repeat;
   background-size: cover;
   background-position: center;
